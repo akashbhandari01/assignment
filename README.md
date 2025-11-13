@@ -7,7 +7,7 @@ A simple Django application that connects to a MySQL database and provides route
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/assignment.git
+git clone https://github.com/akashbhandari01/assignment.git
 ```
 ```bash
 cd assignment
